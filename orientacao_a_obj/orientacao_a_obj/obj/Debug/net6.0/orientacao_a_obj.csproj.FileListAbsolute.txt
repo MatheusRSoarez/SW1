@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\bin\Debug\net6.0\orientacao_a_obj.exe
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\bin\Debug\net6.0\orientacao_a_obj.deps.json
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\bin\Debug\net6.0\orientacao_a_obj.runtimeconfig.json
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\bin\Debug\net6.0\orientacao_a_obj.dll
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\bin\Debug\net6.0\orientacao_a_obj.pdb
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.dll
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\refint\orientacao_a_obj.dll
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.pdb
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\orientacao_a_obj.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\orientacao_a_obj\orientacao_a_obj\obj\Debug\net6.0\ref\orientacao_a_obj.dll
